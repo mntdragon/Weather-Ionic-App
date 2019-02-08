@@ -1,10 +1,10 @@
-#THIS IS IONIC WEATHER MOBILE APPLICATION
+# THIS IS IONIC WEATHER MOBILE APPLICATION
 
 gitversion-weather
-***** Home page
+## Home page
 Show info from API
 
-*****Idea
+## Idea
 
 ----create settings page
 -------dont forget to update in tabs .ts and .html
